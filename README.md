@@ -27,4 +27,6 @@ JavaScript, React, HTML, CSS
 MIT License
 
 ## Repo Link
+
+https://github.com/codystepp1006/react-portfolio?tab=readme-ov-file
  
